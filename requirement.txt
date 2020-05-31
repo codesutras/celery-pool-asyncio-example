@@ -1,0 +1,3 @@
+celery
+celery-pool-asyncio
+celery-redbeat
