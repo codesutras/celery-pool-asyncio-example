@@ -1,4 +1,4 @@
-# celery-pool-asyncio-example
+# celery-pool-asyncio-example & celery redbeat schedule task exmaple
 This repository contain a minimal working example of [celery-pool-asyncio](https://github.com/kai3341/celery-pool-asyncio) to work Celery pool to run coroutine tasks. Same code base can be use too for testing redbeat scheduler (Which is not supporting coroutine tasks at this moment).
 
 
