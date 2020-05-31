@@ -12,3 +12,4 @@ To run celery beat
 ```sh
 $ celery beat -A task -l debug
 ```
+Note: In order to run this sample code with [Redbeat Scheduler](https://github.com/sibson/redbeat), change scheduler configuration in config.py to redbeat.RedBeatScheduler
